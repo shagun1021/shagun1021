@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shagun</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<img src="https://i.pinimg.com/564x/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.jpg" target="_blank"/>
+<img src="https://i.pinimg.com/564x/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.jpg" width="1000px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun1021&label=Profile%20views&color=0e75b6&style=flat" alt="shagun1021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun1021" alt="shagun1021" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
